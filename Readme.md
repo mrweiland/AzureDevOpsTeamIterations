@@ -1,7 +1,10 @@
-# Introduction 
-Add iterations to teams in config automatically. 
+## Introduction 
+Add iterations to teams in Azure DevOps or TFS with json configuration.
 
-# Getting Started
+If you have multiple teams and alot of iterations its hard to update all teams with right iteration and dates. With this you cut hours of work. 
+
+
+## Getting Started
 1. Create a personal token in Azure DevOps or TFS
 2. Update appsettings.json file with your desired
 3. Change personal access token.
