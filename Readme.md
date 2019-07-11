@@ -1,18 +1,19 @@
-﻿#Introduction 
+#Introduction 
 Add iterations to teams in config automatically. 
 
 #Getting Started
 1. Create a personal token in Azure DevOps or TFS
-2. Update appsettings.json file with you local settings.
+2. Update appsettings.json file with your desired
+3. Change personal access token.
+4. Run!
 
         {
-        "baseUrl": "http://tfs.Server.com:8080/",
+        "baseUrl": "https://tfs.server.com/",
         "collection": "DefaultCollection",
         "project": "Your project",
         "teams": [
             "DevOps",
             "Core",
-            "Scheduling",
             "Product",
             "Test",
             "Project Management"
