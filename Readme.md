@@ -1,7 +1,7 @@
-#Introduction 
+# Introduction 
 Add iterations to teams in config automatically. 
 
-#Getting Started
+# Getting Started
 1. Create a personal token in Azure DevOps or TFS
 2. Update appsettings.json file with your desired
 3. Change personal access token.
@@ -37,9 +37,9 @@ Add iterations to teams in config automatically.
         }
 
 
-#Build and Test
+# Build and Test
 Run test in Visual Studio and it will add and set active iterations on each team.
 
-#Contribute
+# Contribute
 - Check if it works on Azure DevOps
 - Add support for removing sprints from teams
